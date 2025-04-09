@@ -22,6 +22,10 @@ From these rules, complex and natural-looking flocking behavior emerges.
 
 No install required! Just follow these steps:
 
+To run in the browser visit: https://123samueld.github.io/BoidsJS/
+
+Alternately:
+
 1. **Download** this repository as a ZIP:  
    - Click the green **"Code"** button above, then **"Download ZIP"**  
 2. **Unzip** the folder to your computer  
